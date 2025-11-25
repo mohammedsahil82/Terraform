@@ -1,6 +1,6 @@
 # Update and essentials
-sudo apt update
-sudo apt install -y unzip curl gnupg software-properties-common
+- sudo apt update
+- sudo apt install -y unzip curl gnupg software-properties-common
 
 # Install AWS CLI v2 (recommended)
 curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o /tmp/awscli.zip
