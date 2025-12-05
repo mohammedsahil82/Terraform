@@ -64,3 +64,5 @@
 
 # To destroy everything the config created:
 - terraform destroy -auto-approve
+
+# END
