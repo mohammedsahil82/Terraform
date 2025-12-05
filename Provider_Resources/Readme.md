@@ -59,8 +59,8 @@
 - terraform plan
 
 5) Apply (creates resources)
-- terraform apply
+- terraform apply -auto-approve
 
 
 # To destroy everything the config created:
-- terraform destroy
+- terraform destroy -auto-approve
